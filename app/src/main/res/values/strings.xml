@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="shopping_list">Shopping list</string>
+    <string name="quantity">Quantity: %d</string>
+    <string name="x">x $%s</string>
+    <string name="add_an_item">Add an item</string>
+    <string name="filter_items">Filter items</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="new_item">New item</string>
+    <string name="item_type">Item type</string>
+    <string name="estimated_price">Estimated price</string>
+    <string name="bought_it">I\'ve bought it</string>
+    <string name="field_cannot_be_empty">This field cannot be empty.</string>
+    <string name="ok">OK</string>
+    <string name="quantity_no_format">Quantity</string>
+    <string name="edit_item">Edit item</string>
+    <string name="filter">Filter</string>
+    <string name="clothing">Clothing:</string>
+    <string name="electronics">Electronics:</string>
+    <string name="entertainment">Entertainment:</string>
+    <string name="food">Food:</string>
+    <string name="home">Home:</string>
+    <string name="total">Total:</string>
+    <string name="dollar">$%s</string>
+    <string name="cost_summary">Cost summary</string>
+    <string name="delete_all">Delete all</string>
+    <string name="tap_here">Tap here to create your first item</string>
+</resources>
